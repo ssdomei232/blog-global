@@ -169,7 +169,7 @@ devices: (
                     action=
                     {
                         type:"Keypress";
-                        keys:["KEY_ENTER"];
+                        keys:["KEY_LEFTCTRL","KEY_X"];
                     }
                 }
                 )
