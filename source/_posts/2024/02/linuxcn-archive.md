@@ -4,30 +4,25 @@ tags:
 - linux
 categories: 
 - 技术
-index_img: https://img.mmeiblog.cn/linuxcn/data/attachment/album/202402/21/finally.jpg
-banner_img: https://img.mmeiblog.cn/linuxcn/data/attachment/album/202402/21/finally.jpg
+index_img: /img/2024/linuxcn-archive/finally.jpg
+banner_img: /img/2024/linuxcn-archive/finally.jpg
 permalink: /linuxcn.html
 date: 2024-02-25 11:29:54
 ---
-想了很久也没有想出来该怎么写开头2333333
 在我看到[这篇文章](https://linux.cn/article-16603-1.html)后，我便想要将Linux中国的文章保留下来并渲染成我喜欢的主题,于是就有了[linuxcat.top](https://linuxcat.top/)
-## Linuxcat 
-Linuxcat使用Hexo的fluid主题渲染,预计将至少提供50年的正常访问
 
 ## 过程
-渲染Linuxcat的过程极其烦人,windows的最大打开文件数使我无法再windows上进行渲染
+渲染 Linuxcat 的过程极其烦人, windows 的最大打开文件数使我无法再 windows 上进行渲染
 > User interface objects support only one handle per object. Processes cannot inherit or duplicate handles to user objects. Processes in one session cannot reference a user handle in another session.
 There is a theoretical limit of 65,536 user handles per session. However, the maximum number of user handles that can be opened per session is usually lower, since it is affected by available memory. There is also a default per-process limit of user handles. To change this limit, set the following registry value:
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\USERProcessHandleQuota
 This value can be set to a number between 200 and 18,000.
 
-Linuxcat使用149kf渲染大约用了15分钟,加上传文件和删删改改耗费了近一天的时间。(Linuxcat完整的索引文件高达200M)
-当然这个域名上我还解析了一堆乱起八糟的东西()
+Linuxcat 使用 149kf 渲染大约用了 15 分钟,加上传文件和删删改改耗费了近一天的时间。(Linuxcat 完整的索引文件高达200M)
 
 ### 修改数据
 头图和大图
 ```shell
-# 开启bash扩展功能globstar，使得**能匹配任意级目录下的文件
 shopt -s globstar
 sed 's|largepic|banner_img|g' -i **/*.md
 sed 's|pic|index_img|g' -i **/*.md
