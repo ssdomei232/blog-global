@@ -4,8 +4,8 @@ tags:
 - 随记
 categories: 
 - 随记
-index_img: /img/2024/xian-play/hukou-4.webp
-banner_img: /img/2024/xian-play/hukou-4.webp
+index_img: /img/2024/wanger/main.jpeg
+banner_img: /img/2024/wanger/main.jpeg
 permalink: /articles/2024/xian-play/index.html
 date: 2024-08-30 16:32:17
 ---
