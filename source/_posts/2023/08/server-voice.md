@@ -1,9 +1,9 @@
 ---
 title: 在服务器没有声卡的情况下使远程桌面播放音频
 tags: 
-- 服务器折腾
+- 运维
 categories: 
-- 服务器折腾
+- 运维
 index_img: /img/2023/8/11/serveryc/1.png
 banner_img: /img/2023/8/11/serveryc/1.png
 permalink: /2023/08/11/202308112222/index.html
