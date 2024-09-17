@@ -16,6 +16,7 @@ Sakura Panel是由[@kasuganosoras](https://github.com/kasuganosoras)开发并开
 
 ### 本地部署
 首先克隆项目到本地`git clone https://github.com/ZeroDream-CN/SakuraPanel.git`,建议先Fork到自己的仓库，然后再clone到本地,因为用GitHub保存代码真的很让人放心.    
+(n久之后来解释一下为什么有这句怪怪的话,因为写这篇文章的前一段时间我有一些写了很久的代码被误删了,最后在GitHub私有库上找到了那段代码前一段时间留的备份)		
 
 #### 环境准备
 Sakura Panel使用PHP开发,下面以1Panel和debian系统为示例:
