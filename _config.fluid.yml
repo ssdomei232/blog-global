@@ -119,7 +119,7 @@ fun_features:
   progressbar:
     enable: true
     height_px: 3
-    color: "#29d"
+    color: "#66ccff"
     # See: https://github.com/rstacruz/nprogress
     options: { showSpinner: false, trickleSpeed: 100 }
 
@@ -268,7 +268,7 @@ web_analytics:  # 网页访问统计
   # 51.la 站点统计 ID
   # 51.la analytics
   # See: https://www.51.la/user/site/index
-  woyaola:  # 51.la 站点统计 ID，参见
+  woyaola: 
 
   # 友盟/cnzz 站点统计 web_id
   # cnzz analytics
@@ -433,7 +433,7 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <p>©2009-2024 mei</p>
+    <p>©2024-2024 mei</p>
     <p><a href="https://icp.gov.moe/?keyword=20241233" target="_blank">萌ICP备20241233号</a></p>
   '
 

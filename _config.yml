@@ -5,8 +5,8 @@
 # Site
 title: mei的网络日志
 subtitle: ''
-description: '玩玩摄影，聊聊技术 - https://mei.lv'
-keywords: mei的网络日志,摄影,航拍,技术,meiのblog,云,云原生,云服务,php,GO,sql,programmer,programming,linux,mei
+description: '玩玩摄影，说点闲话，聊聊技术 - https://mei.lv'
+keywords: mei的网络日志,摄影,航拍,技术,云,云原生,云服务,php,GO,sql,programmer,programming,linux,mei
 author: mei
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -97,6 +97,7 @@ ignore:
 # Extensions
 Plugins: 
   hexo-generator-feed
+
 #Feed Atom
 feed:
   type: atom
