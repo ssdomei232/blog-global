@@ -5,6 +5,8 @@ tags:
 - 分享
 categories: 
 - 工具
+index_img: /img/2024/cdn-cname/00028-2889585770.webp
+banner_img: /img/2024/cdn-cname/00028-2889585770.webp
 permalink: /articles/2024/cdn-cname/index.html
 date: 2024-06-30 15:30:47
 ---

@@ -5,8 +5,8 @@ tags:
 - linux
 categories: 
 - Linux
-index_img: /img/2023/12/6/screen.webp
-banner_img: /img/2023/12/6/screen.webp
+index_img: /img/2023/12/6/00015-1315254036.webp
+banner_img: /img/2023/12/6/00015-1315254036.webp
 permalink: /2023/12/06/202312061055/index.html
 date: 2023-12-06 10:55:44
 ---

@@ -7,8 +7,8 @@ tags:
 - 国产
 categories: 
 - Linux
-index_img: /img/2023/7/20/ftmc/index.jpg
-banner_img: /img/2023/7/20/ftmc/index.jpg
+index_img: /img/2023/7/20/ftmc/00012-2560986177.webp
+banner_img: /img/2023/7/20/ftmc/00012-2560986177.webp
 permalink: /2023/07/20/202307202213/index.html
 date: 2023-07-20 22:13:12
 ---

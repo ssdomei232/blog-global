@@ -7,6 +7,8 @@ tags:
 - 学习笔记
 categories:
 - Linux
+index_img: /img/2024/4/linuxpkg-offline/00020-3477423043.webp
+banner_img: /img/2024/4/linuxpkg-offline/00020-3477423043.webp
 permalink: /2024/03/17/linuxpkg-offline/index.html
 ---
 ### 制作
