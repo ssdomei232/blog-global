@@ -11,9 +11,9 @@ banner_img: /img/2024/2/17/torch.png
 permalink: /2024/02/17/cuda122usepytorch/index.html
 date: 2024-02-17 11:36:55
 ---
-如果你在nvidia官网安装了最新版的CUDA(CUDA12.2/12.3),但访问`https://download.pytorch.org/whl/cu122/torch_stable.html就会发现pytorch并没有支持此版本的CUDA`就会发现pytorch并没有支持此版本的CUDA 
+如果你在nvidia官网安装了最新版的CUDA(CUDA12.2/12.3),但访问 [https://download.pytorch.org/whl/cu122/torch_stable.html](https://download.pytorch.org/whl/cu122/torch_stable.html) 就会发现pytorch并没有支持此版本的CUDA       
 但是支持CUDA12.1的pytorch也可以支持CUDA12.2(看网上说CUDA12.3也可以支持,但没有试过) 
-执行
+执行    
 ```shell
 pip install torch torchvision torchaudio -f https://download.pytorch.org/whl/cu121/torch_stable.html
 ```
